@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="hello" width="50">
 <br>
 
-<b>Hi there, I'm Sartaj </h1>
+<b>Hi there, I'm Sameer </h1>
   <!--
   <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sartajbhuvaji&label=Profile%20views&color=0e75b6&style=flat" alt="sartajbhuvaji" /> </p>
@@ -17,13 +17,15 @@
 
 <h2 align="center">About me </h2>
 <ul>
-  <li> Graduate student in Computer Science Specializing in Data Science at Seattle University.
-  <li> Currently a passionate Data Science Researcher at SU, exploring data augmentation techniques to help solve class imbalance problems!
+  <li> Graduate student in Mechanical Engineering Specializing in Modeling and Simulation at the University of California, Berkeley.
+  <li> Currently a passionate Design and Manufacturing graduate, exploring Automation techniques.
 </ul>  
 
+<!--
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sartajbhuvaji&" alt="sartajbhuvaji" />
 </p>
+-->
 
 <!--
 <h2 align="center"> Currently Working on</h2>
@@ -98,5 +100,6 @@
 
 <h2 align="center"> </h2>
 <ul>
-  <li> <a href="https://www.linkedin.com/in/sartaj-bhuvaji-b762031b4/">LinkedIin</a> 
+  <li> <a href="https://www.linkedin.com/in/sameerbhuvaji">LinkedIin</a> 
+  <li> <a href="https://www.sameerbhuvaji.com">Portfolio Website</a>
 </ul>  
